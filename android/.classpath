@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK" exported="true"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES" exported="true"/>
+	<classpathentry kind="src" path="/Meltzone-core" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Crigges-Pc/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.0/507ac52d14363f2bffbffb5508945976279b4dd/gdx-backend-android-1.6.0-sources.jar" kind="lib" path="C:/Users/Crigges-Pc/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.0/df38ae4efc95f07c60d8333df1e3c0efced11ff4/gdx-backend-android-1.6.0.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Crigges-Pc/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.0/67906739c5b297a8254c2f591395183c6d0de539/gdx-1.6.0-sources.jar" kind="lib" path="C:/Users/Crigges-Pc/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.0/b7ac8e495b4e4828a30fa97654a17bdfb9f93734/gdx-1.6.0.jar" exported="true"/>
+</classpath>
